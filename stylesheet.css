@@ -1,0 +1,20 @@
+body{
+  margin:0;
+  background-color: white;
+  font-family:Lucida Grande;
+}
+
+/* Header */
+li{
+  list-style: none;
+  text-align: right;
+  color: black;
+
+}
+
+.container{
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+  background-color:  rgba(255, 255, 255, 0.3);
+}
